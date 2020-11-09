@@ -56,7 +56,8 @@
 ---
 
 <details>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mabubakar&layout=compact)](https://github.com/mabubakar/github-readme-stats)
+ <summary>:zap: Most Used Languages </summary>
+<img  alt="Abubakar's GitHub Stats" src="(https://github-readme-stats.vercel.app/api/top-langs/?username=mabubakar&layout=compact" />
 </details>
 
 [website]: https://app.netlify.com/teams/mabubakar/sites
