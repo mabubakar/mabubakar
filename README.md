@@ -47,12 +47,10 @@
 
 ---
 
----
-
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="mabubakar's GitHub Stats" src="https://github-readme-stats.mabubakar.vercel.app/api?username=mabubakar&show_icons=true&hide_border=true" />
+  <img align="left" alt="Abubakar's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=mabubakar&show_icons=true&hide_border=true" />
 
 </details>
 
