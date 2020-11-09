@@ -49,8 +49,14 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img  alt="Abubakar's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=mabubakar&show_icons=false&hide_border=true" />
+  <img  alt="Abubakar's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=mabubakar&show_icons=true&hide_border=true" />
 
+</details>
+
+---
+
+<details>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mabubakar&layout=compact)](https://github.com/mabubakar/github-readme-stats)
 </details>
 
 [website]: https://app.netlify.com/teams/mabubakar/sites
