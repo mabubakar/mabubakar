@@ -57,7 +57,7 @@
 
 <details>
  <summary>:zap: Most Used Languages </summary>
-<img  alt="Most Used Language " src="(https://github-readme-stats.vercel.app/api/top-langs/?username=mabubakar&layout=compact" />
+<img  alt="Most Used Language " src="https://github-readme-stats.vercel.app/api/top-langs/?username=mabubakar&layout=compact" />
 </details>
 
 [website]: https://app.netlify.com/teams/mabubakar/sites
