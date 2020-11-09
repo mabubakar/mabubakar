@@ -4,7 +4,6 @@
 
 ## I'm a Frontend Developer!!
 
-- 🔭 I just launched my first course: [Become A VS Code SuperHero!][course]!
 - 🌱 I’m currently learning everything 🤣
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to learn new things
@@ -50,7 +49,7 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="Abubakar's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=mabubakar&show_icons=true&hide_border=true" />
+  <img  alt="Abubakar's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=mabubakar&show_icons=true&hide_border=true" />
 
 </details>
 
