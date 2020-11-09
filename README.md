@@ -47,18 +47,19 @@
 ---
 
 <details>
-  <summary>:zap: GitHub Stats</summary>
 
-  <img  alt="Abubakar's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=mabubakar&show_icons=true&hide_border=true" />
+  <img align='left' alt="Abubakar's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=mabubakar&show_icons=true&hide_border=true" />
+
+  <img align='right' alt="Most Used Language " src="https://github-readme-stats.vercel.app/api/top-langs/?username=mabubakar&layout=compact" />
 
 </details>
 
----
+<!-- ---
 
 <details>
- <summary>:zap: Most Used Languages </summary>
+
 <img  alt="Most Used Language " src="https://github-readme-stats.vercel.app/api/top-langs/?username=mabubakar&layout=compact" />
-</details>
+</details> -->
 
 [website]: https://app.netlify.com/teams/mabubakar/sites
 [twitter]: https://twitter.com/a4abubakkar
