@@ -50,12 +50,12 @@
 
 <img  alt="Most Used Language " src="https://github-readme-stats.vercel.app/api/top-langs/?username=mabubakar&layout=compact" />
 
-[website]: https://mabubakar-portfolio.netlify.app
+[website]: https://mabubakar.netlify.app/
 [twitter]: https://twitter.com/a4abubakkar
 [facebook]: https://www.facebook.com/A4Abubakar/
 [instagram]: https://www.instagram.com/a4abubakkar/
 [linkedin]: https://www.linkedin.com/in/a4abubakar/
-[webdevplaylist]: https://mabubakar-portfolio.netlify.app
-[jsplaylist]: https://mabubakar-portfolio.netlify.app
-[cssplaylist]: https://mabubakar-portfolio.netlify.app
-[reactplaylist]: https://mabubakar-portfolio.netlify.app
+[webdevplaylist]:https://mabubakar.netlify.app/
+[jsplaylist]: https://mabubakar.netlify.app/
+[cssplaylist]: https://mabubakar.netlify.app/
+[reactplaylist]: https://mabubakar.netlify.app/
